@@ -1,0 +1,112 @@
+/* свет studio #000000 */
+
+/* первая секция после header цвет color: #2F303A; */
+/*  секция там гле увага до деталий цвет background: #F5F5F5; и этот цвет в секции чим ми займаемось */
+/*  наша команда цвет background: #F5F4FA; */
+
+/* Цвет оглавлений всех и верхней шапки #212121 */
+
+/* Цыет млких букв #757575 */
+
+/* Цвет выделеныз обьектов синим цветом #2196F3 */
+
+/* в хедере цвет телефона  такой же как и в мелких буквах  #757575 */
+
+/* в футуре эмэил и номр телефона состоитиз color: rgba(255, 255, 255, 0.6); */
+
+
+/* body-page */
+
+/* .page { 
+   background-color: #ffffff;
+    color: #212121;
+ }  */
+
+.list {
+    list-style: none;
+}
+
+
+.logocolor {
+    color: #2196F3;
+    text-decoration: none;
+}
+
+.logo {
+    color: black;
+}
+
+.link {
+    color: #212121;
+}
+
+.nav-site :hover,
+.nav-site :focus {
+    color: #2196F3;
+
+}
+.malito {
+    color:#757575
+}
+
+.telefon {
+    color:#757575
+}
+
+
+.contacts :hover,
+.contacts :focus {
+    color: #2196F3;
+}
+
+
+
+
+.hero :hover,
+.hero :focus {
+    color: #FFFFFF;
+    background-color: #188CE8;
+    
+} 
+.button {
+    background-color: #2196F3;
+    color: #FFFFFF;
+}
+
+
+
+
+
+
+.hero-title {
+    background-color: #2F303A;
+    color: #FFFFFF;
+}
+.section {
+    color: #212121;
+}
+.section-title {
+    color: #212121;
+}
+
+.work-list {
+     color: #757575;
+}
+
+.team-list {
+    color : #757575;
+}
+
+.logocolor {
+    color: #2196F3;
+}
+.logo-footer {
+    color: #FFFFFF;
+}
+
+.footer  {
+    background-color: #212121;
+    text-decoration: none;
+  
+    
+}
