@@ -1,14 +1,3 @@
-/* section-list Background-color #F5F5F5;*/
-/* secti-list наша команда Background-color #F5F4FA;*/
-/* Цвет героя и аутера Background-color #2F303A; */
-
-/*  Цвет шрифтов */
-/* основной цвет текста color #757575; */
-/* Вторичный цвет текста зоголовка лого #212121; */
-/* все кнопки в цвете #2196F3 */
-/* телефон эмэил в футуре цвет rgba(255, 255, 255, 0.6);*/
-/* Кнопка ботон в действии цвет #188CE8*/
-
 :root {
   --main-text-color: #757575;
   --secondary-text-color: #212121;
@@ -160,7 +149,7 @@ body {
   color: var(--white-text-color);
 }
 
-/* Portfolio main */
+/* Portfolio main list*/
 
 .project {
   color: var(--secondary-text-color);
